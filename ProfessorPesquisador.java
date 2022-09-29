@@ -1,9 +1,9 @@
-//Professor Pesquisador e-Um Pessoa
-public class ProfessorPesquisador extends Pessoa{
+//ProfessorPesquisador e-Um Pessoa
+//ProfessorPesquisador e-Um Professor
+
+public class ProfessorPesquisador extends Professor{
     public void pesquisar(){
-        System.out.printf(
-            "%s pesquisando...",
-            nome
-        );
+        System.out.printf("Pesquisando ...")
     }
+    
 }

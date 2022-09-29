@@ -1,5 +1,6 @@
-//AlunoDeGraducao é-Um Pessoa
+//AlunoDeGraduacao e-Um Pessoa
+//AlunoDeGraduacao e-Um Aluno
 
-public class AlunoDeGraduacao extends Pessoa{
-    double note1, nota2, notaFinal;
+public class AlunoDeGraduacao extends Aluno{
+    double nota1, nota2, notaFinal;
 }

@@ -1,5 +1,6 @@
-//Aluno de Pos Graduacao e-Um Pessoa
-public class AlunoDeGraduacao extends Pessoa{
-    char conceito;
+//AlunoDePosGraduacao e-Um Pessoa
+//AlunoDePosGraduacao e-Um Aluno
 
+public class AlunoDePosGraduacao extends Aluno {
+    char conceito;
 }

@@ -1,4 +1,6 @@
-//Professor Horista e-Um Pessoa
-public class ProfessorHorista extends Pessoa{
-    
+//Professor e-Um Pessoa
+//ProfessorHorista e-Um Professor
+
+public class ProfessorHorista extends Professor{
+
 }
